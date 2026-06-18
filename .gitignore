@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+__MACOSX/
+
+# Editable report drafts
+*.docx
+*.pptx
+
+# Temporary files
+*.tmp
+*.log
